@@ -17,13 +17,13 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=mysql&logoColor=white)
 
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rawan-Sotohy&layout=compact" alt="Top Languages" width="390"/>
-  &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com/?user=Rawan-Sotohy" alt="GitHub Streak" width="390"/>
-</p>
+<h2>📊 GitHub Stats</h2>
+
+[![Rawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rawan-Sotohy&show_icons=true)](https://github.com/Rawan-Sotohy)
 
 
+<h2>🔠 Languages Stats</h2>
+
+<img src="https://github-readme-stats.vercel.app//api/top-langs/?username=Rawan-Sotohy&layout=compact&theme=" />
 
