@@ -5,10 +5,6 @@
 📬 Reach me at: rawansotohy123@gmail.com
 
 
-### 💡 Quotes I love:
-- “Stay curious, keep learning.”
-- “Think twice, code once.”
-
 
 ### 🛠️ Languages & Tools:
 
