@@ -8,10 +8,9 @@
 
 ### 🛠️ Languages & Tools:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=mysql&logoColor=white)
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,flask,git,github,vscode,jupyter" alt="My Skills" /> 
+</p> 
 
 
 <h2>📊 GitHub Stats</h2>
@@ -21,5 +20,5 @@
 
 <h2>🔠 Languages Stats</h2>
 
-<img src="https://github-readme-stats.vercel.app//api/top-langs/?username=Rawan-Sotohy&layout=compact&theme=" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rawan-Sotohy&layout=compact&theme=github_dark" />
 
