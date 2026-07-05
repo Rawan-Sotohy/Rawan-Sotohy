@@ -13,7 +13,7 @@
 
 
   <p>
-    <a href="https://drive.google.com/file/d/12Liwu9tb60TyF1y5GhSwYWn99rzTqRq9/view?usp=sharing">
+    <a href="https://drive.google.com/file/d/1IU-8DXSUHW5W-tn2LJbrwXURLFnoy4f9/view?usp=sharing">
       <img src="https://img.shields.io/badge/My CV-0077B5?style=flat-square&logo=googledrive&logoColor=white" style="height:34px; object-fit:contain;"/></a> &nbsp;
   </p>
 
