@@ -83,5 +83,12 @@
   <img src="https://streak-stats.demolab.com/?user=Rawan-Sotohy&theme=default&hide_border=true" alt="GitHub Streak" height="170" />
 </picture>
 
+---
+
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rawan-Sotohy/Rawan-Sotohy/output/github-contribution-grid-snake.svg?v=1" alt="Contribution Snake" />
+</p>
 
 ---
