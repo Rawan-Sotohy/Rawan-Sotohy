@@ -74,13 +74,13 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rawan-Sotohy&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rawan-Sotohy&layout=compact&theme=graywhite&hide_border=true" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rawan-Sotohy&layout=compact&theme=graywhite&hide_border=true" alt="Top Languages" height="200" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rawan-Sotohy&layout=compact&theme=graywhite&hide_border=true" alt="Top Languages" height="170" />
 </picture>
-  
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Rawan-Sotohy&theme=dark&hide_border=true&background=0D1117" />
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Rawan-Sotohy&theme=default&hide_border=true" />
-  <img src="https://streak-stats.demolab.com/?user=Rawan-Sotohy&theme=default&hide_border=true" alt="GitHub Streak" height="200" />
+  <img src="https://streak-stats.demolab.com/?user=Rawan-Sotohy&theme=default&hide_border=true" alt="GitHub Streak" height="170" />
 </picture>
 
 
